@@ -13,7 +13,7 @@
 // @include        https://www.mymaths.co.uk/news/whatsnew/index.html
 // @include        file://*
 // @copyright      Saul McGowan
-// @version        1.0
+// @version        1.0.0
 // @grant					GM_xmlhttpRequest
 // @grant					GM_addStyle
 // @grant					GM_openInTab
@@ -46,12 +46,12 @@
         // Syntax: 'Search word' : 'Replace word',
         //Home Page
         'Interactive maths learning for your whole school' : 'Interactive communism for your country!',
-        'Providing complete curriculum coverage from Key Stage 1 to A Level, MyMaths offers a wealth of resources that will help you deliver your teaching in the classroom and develop your students’ confidence and fluency in maths.' : 'Karl Marx once said, "The philosophers have only interpreted the world, in various ways. The point, however, is to change it."',
+        'Providing complete curriculum coverage from Key Stage 1 to A Level, MyMaths offers a wealth of resources that will help you deliver your teaching in the classroom and develop your studentsâ€™ confidence and fluency in maths.' : 'Karl Marx once said, "The philosophers have only interpreted the world, in various ways. The point, however, is to change it."',
         'Try MyMaths' : 'Try Communism',
         'Subscribe' : 'Revolution',
         'In secondary schools' : 'About Communism',
         'For all ages and abilities right up to A-Level' : '"Property is theft!...", wrote French anarchist Pierre-Joseph Proudhon in his 1840 book What is Property?',
-        'MyMaths offers everything you need to teach mathematics, enthuse today’s students, and provide a strong foundation for other maths-related subjects.' : 'A theory or system of social organization in which all property is owned by the community and each person contributes and receives according to their ability and needs. Communism is the only noble form of government, and is an ode to the equality the common people deserve!',
+        'MyMaths offers everything you need to teach mathematics, enthuse todayâ€™s students, and provide a strong foundation for other maths-related subjects.' : 'A theory or system of social organization in which all property is owned by the community and each person contributes and receives according to their ability and needs. Communism is the only noble form of government, and is an ode to the equality the common people deserve!',
         'Learn more about MyMaths in secondary schools' : 'Learn more about communism',
         'Secondary' : 'About Communism',
         'It motivates the less able and offers real challenge to the high-flyers.' : 'It motivates the serfs and keeps them in check',
@@ -65,10 +65,10 @@
         'pupil support' : 'citizen support',
         //Primary Page
         'Primary' : 'Russia',
-        'Time-saving resources that supplement your Russia school’s curriculum' : '"Give me four years to teach the children and the seed I have sown will never be uprooted."',
+        'Time-saving resources that supplement your Russia schoolâ€™s curriculum' : '"Give me four years to teach the children and the seed I have sown will never be uprooted."',
         'MyMaths is a whole-school interactive resource for use in the classroom and at home that is easy to use alongside any other maths resources to consolidate learning.' : 'The preceding quote is from one of our most noble revolutionaries, Vladimir Lenin. It sums up the goal of Russia and, by proxy OurMaths, quite well.',
         'A whole school solution' : 'Karl Marx',
-        'Develops pupils’ skills' : 'Friedrich Engels',
+        'Develops pupilsâ€™ skills' : 'Friedrich Engels',
         'Karl Marx that sits perfectly alongside all UK National Curricula that is easy to use alongside any other maths resources and schemes.' : 'Karl Marx was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He, with Friedrich Engels, wrote the communist manifesto.',
         '/\\bD\\b/g' : '[D]',
 
